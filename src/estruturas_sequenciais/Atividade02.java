@@ -1,4 +1,4 @@
-package main;
+package estruturas_sequenciais;
 
 import java.util.Scanner;
 

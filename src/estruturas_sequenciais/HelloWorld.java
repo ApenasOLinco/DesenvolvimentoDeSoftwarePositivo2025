@@ -1,4 +1,4 @@
-package main;
+package estruturas_sequenciais;
 
 public class HelloWorld {
     public static void main(String[] args) {

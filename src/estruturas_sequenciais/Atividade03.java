@@ -1,4 +1,4 @@
-package main;
+package estruturas_sequenciais;
 
 /* 
  * Uma fabrica de refrigerantes vende seu produto em três formatos: lata de 350 ml, garrafa de 600 ml e 

@@ -1,4 +1,4 @@
-package main;
+package estruturas_sequenciais;
 
 /*
 Escreva um programa que leia horas, minutos e segundos do teclado e apresente o tempo total em
