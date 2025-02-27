@@ -12,6 +12,7 @@ public class Atividade02 {
 
         System.out.println("Insira um numero inteiro:");
         num = scanner.nextInt();
+        scanner.close();
 
         System.out.printf("Antecessor: %d, Sucessor: %d", num - 1, num + 1);
     }
