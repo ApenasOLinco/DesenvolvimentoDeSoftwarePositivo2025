@@ -12,28 +12,23 @@ import java.util.Scanner;
 public class Atividade05 {
 	public static void main(String[] args) {
 		Scanner s = new Scanner(System.in);
-		double consumoMedio, autonomia, capacidadeTanque, litrosAbastecidos, quilometragem;
+		double consumoMedio, autonomia, combustivelRestante, capacidadeTanque, litrosAbastecidos, quilometragem;
 
-		System.out.println("Insira a capacidade do tanque do veículo, em litros:");
+		System.out.println("Insira a capacidade do tanque:");
 		capacidadeTanque = s.nextDouble();
-
+		
 		System.out.println("Insira a quantidade de litros abastecidos:");
 		litrosAbastecidos = s.nextDouble();
-
-		System.out.println("Insira a quilometragem percorrida pelo veículo desde o último abastecimento:");
+		
+		System.out.println("Insira a quilometragem percorrida desde o último abastecimento:");
 		quilometragem = s.nextDouble();
-
+		
+		consumoMedio = quilometragem / litrosAbastecidos;
+		combustivelRestante = capacidadeTanque - litrosAbastecidos;
+		autonomia = combustivelRestante * consumoMedio;
+		
 		s.close();
-
-		double combustivelGasto = capacidadeTanque - litrosAbastecidos;
-
-		// Cálculo da autonomia em Km/L
-		autonomia = quilometragem / combustivelGasto;
-
-		// Cálculo do consumo médio, em L/Km
-		consumoMedio = combustivelGasto / quilometragem;
-
-		System.out.printf("A autonomia do veículo é de %.1fKm/L\n", autonomia);
-		System.out.printf("O consumo médio do veículo é de %.1fL/Km\n", consumoMedio);
+		
+		System.out.printf("O consumo médio do veículo é de %.1fKm/L\nA autonomia do veículo seria de %.1fKm\n", consumoMedio, autonomia);
 	}
 }
