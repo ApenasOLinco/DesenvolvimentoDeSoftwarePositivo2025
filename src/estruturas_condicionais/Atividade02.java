@@ -8,28 +8,24 @@ import java.util.Scanner;
 
 public class Atividade02 {
 	public static void main(String[] args) {
-		int a, b, c;
+		int num, menor;
 		Scanner scanner = new Scanner(System.in);
 		
 		System.out.println("Insira o primeiro número");
-		a = scanner.nextInt();
+		menor = scanner.nextInt();
 		
 		System.out.println("Insira o segundo número");
-		b = scanner.nextInt();
+		num = scanner.nextInt();
+		
+		if(num < menor) menor = num;
 		
 		System.out.println("Insira o terceiro número");
-		c = scanner.nextInt();
+		num = scanner.nextInt();
+		
+		if(num < menor) menor = num;
 		
 		scanner.close();
 		
-		System.out.print("Menor valor: ");
-		
-		if(a < b && a < c) {
-			System.out.println(a);
-		} else if (b < a && b < c) {
-			System.out.println(b);
-		} else {
-			System.out.println(c);
-		}
+		System.out.print("Menor valor: " + menor);
 	}
 }
