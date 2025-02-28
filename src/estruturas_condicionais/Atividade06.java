@@ -18,6 +18,8 @@ public class Atividade06 {
 		System.out.println("Insira um número inteiro de 0 a 9:");
 		num = s.nextShort();
 		
+		s.close();
+		
 		if(num >= 0 && num < extenso.length) {
 			System.out.println(extenso[num]);
 		} else {
