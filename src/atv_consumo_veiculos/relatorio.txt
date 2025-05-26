@@ -1,0 +1,121 @@
+RELATÓRIO
+---------------------------------
+Fabricante: Toyota
+Modelo: Corolla
+Consumo médio: 12,00
+Litros por 1.000 km: 12000,00
+Preço por 1.000 km: 144000,00
+---------------------------------
+Fabricante: Honda
+Modelo: Civic
+Consumo médio: 11,00
+Litros por 1.000 km: 11000,00
+Preço por 1.000 km: 132000,00
+---------------------------------
+Fabricante: Volkswagen
+Modelo: Polo
+Consumo médio: 13,00
+Litros por 1.000 km: 13000,00
+Preço por 1.000 km: 156000,00
+---------------------------------
+Fabricante: Hyundai
+Modelo: HB20
+Consumo médio: 14,00
+Litros por 1.000 km: 14000,00
+Preço por 1.000 km: 168000,00
+---------------------------------
+Fabricante: Chevrolet
+Modelo: Onix
+Consumo médio: 13,00
+Litros por 1.000 km: 13000,00
+Preço por 1.000 km: 156000,00
+---------------------------------
+Fabricante: Fiat
+Modelo: Strada
+Consumo médio: 12,00
+Litros por 1.000 km: 12000,00
+Preço por 1.000 km: 144000,00
+---------------------------------
+Fabricante: Renault
+Modelo: Kwid
+Consumo médio: 15,00
+Litros por 1.000 km: 15000,00
+Preço por 1.000 km: 180000,00
+---------------------------------
+Fabricante: Jeep
+Modelo: Renegade
+Consumo médio: 10,00
+Litros por 1.000 km: 10000,00
+Preço por 1.000 km: 120000,00
+---------------------------------
+Fabricante: Ford
+Modelo: Ranger
+Consumo médio: 9,00
+Litros por 1.000 km: 9000,00
+Preço por 1.000 km: 108000,00
+---------------------------------
+Fabricante: Nissan
+Modelo: Kicks
+Consumo médio: 11,00
+Litros por 1.000 km: 11000,00
+Preço por 1.000 km: 132000,00
+---------------------------------
+Fabricante: BMW
+Modelo: Série 3
+Consumo médio: 9,00
+Litros por 1.000 km: 9000,00
+Preço por 1.000 km: 108000,00
+---------------------------------
+Fabricante: Mercedes-Benz
+Modelo: Classe C
+Consumo médio: 9,00
+Litros por 1.000 km: 9000,00
+Preço por 1.000 km: 108000,00
+---------------------------------
+Fabricante: Audi
+Modelo: A4
+Consumo médio: 8,00
+Litros por 1.000 km: 8000,00
+Preço por 1.000 km: 96000,00
+---------------------------------
+Fabricante: Peugeot
+Modelo: 208
+Consumo médio: 13,00
+Litros por 1.000 km: 13000,00
+Preço por 1.000 km: 156000,00
+---------------------------------
+Fabricante: Citroën
+Modelo: C4 Cactus
+Consumo médio: 11,00
+Litros por 1.000 km: 11000,00
+Preço por 1.000 km: 132000,00
+---------------------------------
+Fabricante: Mitsubishi
+Modelo: L200 Triton
+Consumo médio: 8,00
+Litros por 1.000 km: 8000,00
+Preço por 1.000 km: 96000,00
+---------------------------------
+Fabricante: Caoa Chery
+Modelo: Tiggo 5X
+Consumo médio: 10,00
+Litros por 1.000 km: 10000,00
+Preço por 1.000 km: 120000,00
+---------------------------------
+Fabricante: Volvo
+Modelo: XC60
+Consumo médio: 9,00
+Litros por 1.000 km: 9000,00
+Preço por 1.000 km: 108000,00
+---------------------------------
+Fabricante: Land Rover
+Modelo: Discovery Sport
+Consumo médio: 8,00
+Litros por 1.000 km: 8000,00
+Preço por 1.000 km: 96000,00
+---------------------------------
+Fabricante: Porsche
+Modelo: 911
+Consumo médio: 7,00
+Litros por 1.000 km: 7000,00
+Preço por 1.000 km: 84000,00

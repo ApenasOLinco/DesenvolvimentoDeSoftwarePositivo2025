@@ -1,0 +1,20 @@
+Toyota;Corolla;12
+Honda;Civic;11
+Volkswagen;Polo;13
+Hyundai;HB20;14
+Chevrolet;Onix;13
+Fiat;Strada;12
+Renault;Kwid;15
+Jeep;Renegade;10
+Ford;Ranger;9
+Nissan;Kicks;11
+BMW;Série 3;9
+Mercedes-Benz;Classe C;9
+Audi;A4;8
+Peugeot;208;13
+Citroën;C4 Cactus;11
+Mitsubishi;L200 Triton;8
+Caoa Chery;Tiggo 5X;10
+Volvo;XC60;9
+Land Rover;Discovery Sport;8
+Porsche;911;7
